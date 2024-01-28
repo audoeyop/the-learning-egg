@@ -3,6 +3,7 @@
 The Learning Egg is a software implementation of a Machine Learning Model. The application uses Reinforcement Learning to demonstrate how a learning agent can solve a problem using Machine Learning.
 
 [View Demo](https://akaninyene.com/projects/the-learning-egg/)
+
 <img src="images/dashboard.jpg" height="300px">
 
 
