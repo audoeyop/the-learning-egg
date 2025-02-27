@@ -6,6 +6,9 @@ The Learning Egg is a software implementation of a Machine Learning Model. The a
 
 <img src="images/dashboard.jpg" height="300px">
 
+## Update
+
+The Learning Egg 2.0 has been released. The new version incorporates neural networks using the Brain.js framework to train the egg to balance.
 
 ## The Problem
 
